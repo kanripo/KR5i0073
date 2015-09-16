@@ -1,16 +1,3 @@
-#+TITLE: 玉詮 / CK-KZ
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 17:55:33.305177
-* 版本
- |     CK-KZ|【重刊道藏輯要】|
- |      YP-C|【原版道藏輯要】|
-目次
- - [[file:KR5i0073_001.txt][玉詮 1]]
- - [[file:KR5i0073_002.txt][玉詮 2]]
- - [[file:KR5i0073_003.txt][玉詮 3]]
- - [[file:KR5i0073_004.txt][玉詮 4]]
- - [[file:KR5i0073_005.txt][玉詮 5]]
- - [[file:KR5i0073_006.txt][玉詮 6]]
- - [[file:KR5i0073_007.txt][玉詮 7]]
- - [[file:KR5i0073_008.txt][玉詮 8]]
- - [[file:KR5i0073_009.txt][玉詮 9]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
