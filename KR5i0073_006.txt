@@ -1,8 +1,7 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:55:33.179398
+#+DATE: 2015-08-29 17:55:33.764773
 #+PROPERTY: ID KR5i0073
-#+TITLE:玉詮
-#+PROPERTY: pinyin Yuquan
+#+TITLE:玉詮 Yuquan
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0073_06p001a>¶
@@ -12,4 +11,4 @@
 　朱大天君¶
 　王大天君¶
 　關大天君¶
-¶	
+¶

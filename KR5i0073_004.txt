@@ -1,8 +1,7 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:55:33.120399
+#+DATE: 2015-08-29 17:55:33.693965
 #+PROPERTY: ID KR5i0073
-#+TITLE:玉詮
-#+PROPERTY: pinyin Yuquan
+#+TITLE:玉詮 Yuquan
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0073_04p001a>¶
@@ -11,4 +10,4 @@
 　　八大金神¶
 　　四大天君¶
 　　白大天君¶
-¶	
+¶

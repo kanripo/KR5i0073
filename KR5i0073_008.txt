@@ -1,8 +1,7 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:55:33.237268
+#+DATE: 2015-08-29 17:55:33.831983
 #+PROPERTY: ID KR5i0073
-#+TITLE:玉詮
-#+PROPERTY: pinyin Yuquan
+#+TITLE:玉詮 Yuquan
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0073_08p001a>¶
@@ -24,4 +23,4 @@
 　　祁眞人¶
 　　陳眞人¶
 　　蘇眞人¶
-¶	
+¶
