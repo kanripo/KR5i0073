@@ -1,15 +1,15 @@
-#-*- mode: org; -*-
-#+DATE: 2015-08-29 17:55:33.179398
-#+PROPERTY: ID KR5i0073
-#+TITLE:玉詮
-#+PROPERTY: pinyin Yuquan
+# -*- mode: mandoku-view -*-
+#+TITLE: 玉詮 Yuquan
+#+DATE: 2015-08-29 17:56:30
 #+PROPERTY: BASEEDITION CK-KZ
-#+PROPERTY: WITNESS CK-KZ
-<pb:CK-KZ_KR5i0073_06p001a>¶
-重刋道藏輯要¶
+#+PROPERTY: WITNESS YP-C
+#+PROPERTY: LASTPB  <md:CK-KZ_KR5i0073_05p067a>
+#+PROPERTY: JUAN 5
+¶¶<pb:YP-C_KR5i0073_23guiji-03-0068b>
+<md:CK-KZ_KR5i0073_06p001a>¶<pb:YP-C_KR5i0073_23guiji-04-0002a>
+道藏輯要¶
 　玉詮卷之四目錄¶
 　劉大天君¶
 　朱大天君¶
 　王大天君¶
-　關大天君¶
-¶	
+　關大天君
